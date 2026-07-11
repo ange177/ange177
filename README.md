@@ -1,20 +1,69 @@
-### Hi, I'm Angella 👋
+<h1 align="center">Hi 👋, I'm Angella Nantongo</h1>
+<h3 align="center">Business & Data Analyst | BI, Forecasting & Simulation</h3>
 
-Business Analyst turning raw data into decisions — comfortable end-to-end from querying and modeling data to building the dashboard a stakeholder actually reads.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E75B6&center=true&vCenter=true&width=500&lines=Business+%26+Data+Analyst;BI+%7C+Forecasting+%7C+Simulation;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Turning+data+into+decisions" alt="Typing SVG" />
+</p>
+
+---
+
+### 👩‍💼 About Me
+
+Business Analyst turning raw data into decisions — comfortable end-to-end, from querying and modeling data to building the dashboard a stakeholder actually reads.
 
 - 🔍 Focused on SQL-driven business intelligence: revenue, customer, and operations analysis
 - 📊 Also work in simulation/systems modeling (Vensim) alongside traditional BI tooling
 - 🌱 Currently building out a portfolio of end-to-end analysis projects — see below
+- ⚡ I like finding the one number in a dataset that changes the whole story — and quantifying exactly what it's worth to fix
 
-#### Core Skills
+---
 
-`Python` · `SQL` · `Power BI` · `Tableau` · `Vensim` · `BigQuery` · `Azure Data Studio`
+### 🛠️ Tech Stack
 
-#### Pinned Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vensim-System%20Dynamics-6E4B99?style=for-the-badge" />
+</p>
 
-| Project | Description |
-|---|---|
-| [sql-ecommerce-analysis](https://github.com/ange177/sql-ecommerce-analysis) | SQL business intelligence analysis of a year of e-commerce orders — joins, CTEs, and window functions (RANK, NTILE, LAG) surface a 68.5% month-over-month revenue collapse and a customer-concentration risk (top 25% of customers drive 55% of revenue). |
-| [orthopedic-hospital-los-analysis](https://github.com/ange177/orthopedic-hospital-los-analysis) | Statistical analysis of 79,000+ orthopaedic hospital admissions — hypothesis testing and regression (R² = 0.577) identify surgical delay and surgery count as the biggest levers on Length of Stay, informing bed-capacity and discharge-planning decisions. |
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ange177&theme=default" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ange177&theme=default" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ange177&theme=default" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ange177&theme=default" width="32%" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [sql-ecommerce-analysis](https://github.com/ange177/sql-ecommerce-analysis) | SQL business intelligence analysis of a year of e-commerce orders — joins, CTEs, and window functions (RANK, NTILE, LAG) surface a 68.5% month-over-month revenue collapse and a customer-concentration risk (top 25% of customers drive 55% of revenue) | SQL |
+| [orthopedic-hospital-los-analysis](https://github.com/ange177/orthopedic-hospital-los-analysis) | Statistical analysis of 79,000+ orthopaedic hospital admissions — hypothesis testing and regression (R² = 0.577) identify surgical delay and surgery count as the biggest levers on Length of Stay, informing bed-capacity and discharge-planning decisions | Python, Statistics |
+| 🔒 [alpha-stores-profitability-discount-analysis](https://github.com/ange177/alpha-stores-profitability-discount-analysis) | Root-cause analysis isolating 3 unrelated drivers of lost profit across region, category, and product — quantifies ~$24K/year in recoverable margin | Excel, Python, Pandas |
+| 🔒 [sales-demand-forecasting](https://github.com/ange177/sales-demand-forecasting) | Excel trend-line baseline vs. regression vs. Random Forest — cuts forecast error from 12.7% to 4.5% MAPE and tests whether model complexity actually pays off | Excel, Python, scikit-learn |
+| 🔒 [travel-booking-etl-pipeline](https://github.com/ange177/travel-booking-etl-pipeline) | Extract/transform/load pipeline joining 3 messy sources into a validated SQLite warehouse — a flag-not-drop data quality decision protected $42,942 in revenue | Python, SQLite, Pandas |
+
+🔒 = private for now, link will 404 until made public
 
 *More projects added as they're completed.*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ange177&label=Profile%20Views&color=2e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">Made with 📊 by Angella Nantongo</p>
