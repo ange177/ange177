@@ -9,12 +9,12 @@
 
 ### 👩‍💼 About Me
 
-Business Analyst turning raw data into decisions — comfortable end-to-end, from querying and modeling data to building the dashboard a stakeholder actually reads.
+Business Analyst turning raw data into decisions, comfortable end-to-end from querying and modeling data to building the dashboard a stakeholder actually reads.
 
 - 🔍 Focused on SQL-driven business intelligence: revenue, customer, and operations analysis
 - 📊 Also work in simulation/systems modeling (Vensim) alongside traditional BI tooling
-- 🌱 Currently building out a portfolio of end-to-end analysis projects — see below
-- ⚡ I like finding the one number in a dataset that changes the whole story — and quantifying exactly what it's worth to fix
+- 🌱 Currently building out a portfolio of end-to-end analysis projects, see below
+- ⚡ I like finding the one number in a dataset that changes the whole story, and quantifying what it's worth to fix
 
 ---
 
@@ -50,11 +50,12 @@ Business Analyst turning raw data into decisions — comfortable end-to-end, fro
 
 | Project | Description | Tech |
 |---|---|---|
-| [sql-ecommerce-analysis](https://github.com/ange177/sql-ecommerce-analysis) | SQL business intelligence analysis of a year of e-commerce orders — joins, CTEs, and window functions (RANK, NTILE, LAG) surface a 68.5% month-over-month revenue collapse and a customer-concentration risk (top 25% of customers drive 55% of revenue) | SQL |
-| [orthopedic-hospital-los-analysis](https://github.com/ange177/orthopedic-hospital-los-analysis) | Statistical analysis of 79,000+ orthopaedic hospital admissions — hypothesis testing and regression (R² = 0.577) identify surgical delay and surgery count as the biggest levers on Length of Stay, informing bed-capacity and discharge-planning decisions | Python, Statistics |
-| 🔒 [alpha-stores-profitability-discount-analysis](https://github.com/ange177/alpha-stores-profitability-discount-analysis) | Root-cause analysis isolating 3 unrelated drivers of lost profit across region, category, and product — quantifies ~$24K/year in recoverable margin | Excel, Python, Pandas |
-| 🔒 [sales-demand-forecasting](https://github.com/ange177/sales-demand-forecasting) | Excel trend-line baseline vs. regression vs. Random Forest — cuts forecast error from 12.7% to 4.5% MAPE and tests whether model complexity actually pays off | Excel, Python, scikit-learn |
-| 🔒 [travel-booking-etl-pipeline](https://github.com/ange177/travel-booking-etl-pipeline) | Extract/transform/load pipeline joining 3 messy sources into a validated SQLite warehouse — a flag-not-drop data quality decision protected $42,942 in revenue | Python, SQLite, Pandas |
+| [sql-ecommerce-analysis](https://github.com/ange177/sql-ecommerce-analysis) | SQL business intelligence analysis of a year of e-commerce orders: joins, CTEs, and window functions (RANK, NTILE, LAG) surface a 68.5% month-over-month revenue collapse and a customer-concentration risk (top 25% of customers drive 55% of revenue) | SQL |
+| [orthopedic-hospital-los-analysis](https://github.com/ange177/orthopedic-hospital-los-analysis) | Statistical analysis of 79,000+ orthopaedic hospital admissions: hypothesis testing and regression (R² = 0.577) identify surgical delay and surgery count as the biggest levers on Length of Stay, informing bed-capacity and discharge-planning decisions | Python, Statistics |
+| 🔒 [alpha-stores-profitability-discount-analysis](https://github.com/ange177/alpha-stores-profitability-discount-analysis) | Root-cause analysis isolating 3 unrelated drivers of lost profit across region, category, and product, quantifies roughly $24K/year in recoverable margin | Excel, Python, Pandas |
+| 🔒 [sales-demand-forecasting](https://github.com/ange177/sales-demand-forecasting) | Excel trend-line baseline vs. regression vs. Random Forest: cuts forecast error from 12.7% to 4.5% MAPE and tests whether model complexity actually pays off | Excel, Python, scikit-learn |
+| 🔒 [travel-booking-etl-pipeline](https://github.com/ange177/travel-booking-etl-pipeline) | Extract/transform/load pipeline joining 3 messy sources into a validated SQLite warehouse: a flag-not-drop data quality decision protected $42,942 in revenue | Python, SQLite, Pandas |
+| 🔒 [investment-portfolio-optimization-decision-modelling](https://github.com/ange177/investment-portfolio-optimization-decision-modelling) | Mean-variance portfolio optimization across 14 assets, solved unconstrained and under realistic policy limits, cross-validated against an Excel Solver rebuild | Python, SciPy, Excel |
 
 🔒 = private for now, link will 404 until made public
 
