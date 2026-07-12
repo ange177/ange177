@@ -10,11 +10,7 @@
 ### 👩‍💼 About Me
 
 Business Analyst turning raw data into decisions, comfortable end-to-end from querying and modeling data to building the dashboard a stakeholder actually reads.
-
-- 🔍 Focused on SQL-driven business intelligence: revenue, customer, and operations analysis
-- 📊 Also work in simulation/systems modeling (Vensim) alongside traditional BI tooling
-- 🌱 Currently building out a portfolio of end-to-end analysis projects, see below
-- ⚡ I like finding the one number in a dataset that changes the whole story, and quantifying what it's worth to fix
+<br><br>🔭 I'm currently building end-to-end analytics projects using Python, SQL, Power BI, and Excel<br><br>🤝 I'm looking to collaborate on business analytics, forecasting, optimisation, and data visualisation projects<br><br>🌱 I'm currently learning advanced machine learning, cloud analytics, and production-ready data workflows<br><br>💬 Ask me about data analysis, business intelligence, forecasting, simulation, systems modelling, and optimisation<br><br>⚡ Fun fact: My favourite projects combine technical analysis with real business decision-making and measurable impact.
 
 ---
 
