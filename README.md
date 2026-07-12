@@ -12,6 +12,8 @@
 Business Analyst turning raw data into decisions, comfortable end-to-end from querying and modeling data to building the dashboard a stakeholder actually reads.
 <br><br>🔭 I'm currently building end-to-end analytics projects using Python, SQL, Power BI, and Excel<br><br>🤝 I'm looking to collaborate on business analytics, forecasting, optimisation, and data visualisation projects<br><br>🌱 I'm currently learning advanced machine learning, cloud analytics, and production-ready data workflows<br><br>💬 Ask me about data analysis, business intelligence, forecasting, simulation, systems modelling, and optimisation<br><br>⚡ Fun fact: My favourite projects combine technical analysis with real business decision-making and measurable impact.
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/angella-nantongo-017838318/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angellanantongo1@gmail.com)
 ---
 
 ### 🛠️ Tech Stack
@@ -22,11 +24,9 @@ Business Analyst turning raw data into decisions, comfortable end-to-end from qu
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vensim-System%20Dynamics-6E4B99?style=for-the-badge" />
-</p>
+  <img src="https://img.shields.io/badge/Vensim-System%20Dynamics-6E4B99?style=for-the-badge" /></p>
 
 ---
 
